@@ -1,7 +1,6 @@
 # QR Payment Merchant Onboarding System
 ## Self-initiated BA Portfolio Project
 
-**Author:** Nguyen Le Bao Dang — BA candidate, UIT – VNU HCM  
 **Domain:** Fintech · Digital Payments · Merchant Onboarding  
 **Reference:** VietQR · TCCS 04:2024/NHNN · Napas 247 · Thông tư 17/2024/TT-NHNN  
 **Status:** In Progress
